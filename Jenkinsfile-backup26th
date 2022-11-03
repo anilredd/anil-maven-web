@@ -10,7 +10,7 @@ node('master'){
 	//def pom = readMavenPom file: 'pom.xml'
 	
 	
-	stage('Checkout'){
+	stage('checking'){
 
           //checkout scm
          }
