@@ -1,0 +1,46 @@
+Personal Development (15%)
+---------------------------------
+- Self development and become expert in your chosen area of work
+- Attendance and participation in necessary trainings
+&nbsp;- Participation in self learning forums
+- Should have an industry recognised certification on 1 technology/tools
+
+
+
+
+Team Work & Communication (20%)
+----------------------------------
+1. Ability to help other peers and juniors.
+- Conduct technical sessions/KT for new joinees in the team.
+- Provide continuous feedforward to peers and the team
+2. Responds to email in timely manner. Understands urgency of issues
+3. Weekly timesheet compliance
+4. Leave Management
+
+
+
+
+Delivery Excellence (30%)
+------------------------------------
+1. Analyse the current practices incorporated in the project thoroughly and get a good understanding of it.
+2. Try to streamline and improve the current build and deployments.
+3. Come up with POCs which will showcase better CICD process as compared to current process that is being followed.
+4. Establish a very good rapport and achieve appreciation awards/remarks with the client.
+
+
+
+Organizational Development Inititatives (5%)
+--------------------------------------
+- Promoting referrals & Brillio branding
+- Actively participate and contribute to at least 2 practice initiative
+&nbsp;Interviews as per org needs
+&nbsp;- Instances of participation in&nbsp; initiatives, Cultural &amp; Fun Clubs etc..
+
+
+
+
+Technical Excellence 30%
+---------------------------------------
+1. Understanding / reverse engineering code written by others.2.Learning at least&nbsp;1 new skill and coming upto speed very rapidly on newer tools/technologies
+3.&nbsp;Providing technical solutions as per project requirements
+4.&nbsp;Demonstrated ability to estimate work at story/epic level.
